@@ -22,24 +22,9 @@ Acest proiect este un exemplu de sistem multi-agent realizat folosind platforma 
 - `src/main/java/ex1/AgentMain.java` - Agent principal care coordonează activitățile celorlalți agenți.
 - `src/main/java/ex1/Blackboard.java` - Clasă utilizată pentru comunicarea între agenți prin modelul blackboard.
 
-## Instalare și Rulare
+## Rulare
 
-1. **Clonare repository**
-
-    ```sh
-    git clone https://github.com/username/mini-project.git
-    cd mini-project
-    ```
-
-2. **Compilare proiect**
-
-    Este necesar de asigurat că ai Maven instalat și configurat corect pe sistemul tău.
-
-    ```sh
-    mvn clean install
-    ```
-
-3. **Rulare proiect**
+1. **Rulare proiect**
 
     Poți rula proiectul din linia de comandă sau folosind un IDE precum IntelliJ IDEA.
 
